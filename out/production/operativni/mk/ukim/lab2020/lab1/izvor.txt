@@ -1,0 +1,6 @@
+Operativni sistemi
+labaratoriska vezba 1
+proba za kopiranje na
+fajl od eden vo drug
+so koristenje na
+IO strimovi

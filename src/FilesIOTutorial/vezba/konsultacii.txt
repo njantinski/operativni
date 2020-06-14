@@ -1,0 +1,8 @@
+    // da ti objasni kako raboti ova so baferiranoto citanje
+    // i kako da go upotrebis tuka za citanje od random access file
+    // od obratna strana
+    // da ti objasni za random access file kako se pristapuva
+
+    // koga se upotrebuva Filereader a koga Fileinputstream
+
+   // koi citaci i pisuvaci se upotrebuvaat najcesto

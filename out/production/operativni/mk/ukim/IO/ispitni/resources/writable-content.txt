@@ -1,0 +1,4 @@
+fajl1 tekst proba
+fajl2 tekst proba
+123
+4321
